@@ -27,10 +27,3 @@ ${tftpFileNameForDownload}    'myfile.txt'
 
 ${cwdDirForUpload}     '/home/rtrk/Desktop'
 ${fileForUpload}    'commands.txt'
-
-${configFile}    '/home/rtrk/Desktop/robotPractise/FW_jenkins_download/SWE/FW_S-TT-EPOS-BIN-05-001/SpaceASIC/configuration/TT-EPOS_Firmware-0.14.2-SWE.json'
-
-${windowsIPAddress}    '10.21.10.93'
-${linuxIPAddress}    '10.21.10.37'
-${interfaceLinux}    'enp3s0'
-${hardwareIPAddress}    '10.0.1.5'
